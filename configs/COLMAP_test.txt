@@ -1,0 +1,14 @@
+expname = COLMAP_test
+basedir = ./logs/release
+datadir = ./data/COLMAP_test
+dataset_type = llff
+factor = 8
+llffhold = 8
+N_rand = 4096
+N_samples = 64
+N_importance = 128
+use_viewdirs = True
+raw_noise_std = 1e0
+no_ndc = True
+i_testset = 2500
+i_video = 2500
