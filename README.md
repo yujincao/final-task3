@@ -16,6 +16,6 @@
 
 
 
-数据权重地址链接：https://pan.baidu.com/s/1ObYurMLphgAsXjSGmHLicA?pwd=jukk 
+数据权重地址链接：https://pan.baidu.com/s/1Lkb9ux3n-KeWbnm6A5WHgQ 
 
-提取码：jukk
+提取码：bvvc
